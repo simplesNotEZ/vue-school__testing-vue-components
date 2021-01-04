@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListComponent shallowMount 1`] = `
+<div>
+  <ul>
+    <li>Iron Man</li>
+    <li>Avengers</li>
+    <li>Infinity War</li>
+  </ul>
+</div>
+`;

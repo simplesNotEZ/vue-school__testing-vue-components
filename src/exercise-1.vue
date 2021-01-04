@@ -22,7 +22,7 @@ export default {
   },
   computed: {
     filteredUsers() {
-      console.log(this.users);
+      // console.log(this.users);
       if (this.filter.trim().length === 0) return this.users;
       return this.users.filter(user => {
         return user.toLowerCase().includes(this.filter.toLowerCase());

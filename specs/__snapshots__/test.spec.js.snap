@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListComponent 1`] = `
+<div>
+  <ul>
+    <li><strong>Iron Man</strong></li>
+    <li><strong>Avengers</strong></li>
+    <li><strong>Infinity War</strong></li>
+    <li><strong>Resevoir Doggies</strong></li>
+  </ul>
+</div>
+`;
+
+exports[`mount the TestComponent 1`] = `
+<div class="smelly">
+  <h1 class="smellyFace">Hello FlueSchool</h1>
+</div>
+`;
